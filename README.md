@@ -56,7 +56,7 @@ Konfigurations-Optionen:
     keep-exp: Globaler Erfahrungs-Schutz (true/false)
 
     worlds: Welt-spezifische Einstellungen (überschreibt globale Einstellungen)
-
+```
 🔐 Berechtigungen
 Permission	Beschreibung	Standard
 keepinventory.keep	Erlaubt Inventar zu behalten	true
